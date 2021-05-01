@@ -1,7 +1,7 @@
 
 # Tibia Gambler
 
-Este projeto tem o objetivo realizar um *crawler* para obter dados do site de apostas [Tibia Blackjack](https://tibiablackjack.com "Tibia Blackjack")
+Este projeto tem o objetivo realizar um *crawler* para obter dados do site de apostas [Tibia Blackjack](https://tibiablackjack.com "Tibia Blackjack").
 
 O projeto atualmente já conta com as seguintes *features*:
 
