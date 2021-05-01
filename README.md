@@ -1,1 +1,10 @@
-# tibia-gambler
+
+# Tibia Gambler
+
+Este projeto tem o objetivo realizar um *crawler* para obter dados do site de apostas [Tibia Blackjack].(https://tibiablackjack.com/crash)
+
+O projeto atualmente já conta com as seguintes *features*:
+
+ - Resultados obtidos são salvos a cada rodada.
+
+Para visualizar o que ainda necessita ser feito, você entrar na [área de *issues*](https://github.com/dgslv/tibia-gambler/issues).
