@@ -1,5 +1,5 @@
 
-# Tibia Gambler
+# TibiaBJ - Crawler
 
 Este projeto tem o objetivo realizar um *crawler* para obter dados do site de apostas [Tibia Blackjack](https://tibiablackjack.com "Tibia Blackjack").
 
